@@ -1,13 +1,12 @@
 package test;
 
-public class AnyTest {
+public class HogeTest {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("テスト");
-		System.out.println("テスト2");
+		System.out.println("Hogeテスト");
 	}
 
 }
